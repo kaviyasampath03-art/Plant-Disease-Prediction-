@@ -4,7 +4,7 @@
 Plant Disease Prediction is a Deep Learning-based web application that identifies diseases in plant leaves from uploaded images. The system uses a Convolutional Neural Network (CNN) trained on the PlantVillage dataset to classify plant diseases and provide predictions through a user-friendly Flask web interface.
 This project helps farmers, researchers, and agriculture enthusiasts detect plant diseases quickly and accurately, enabling timely treatment and reducing crop loss.
 
-"C:\Users\kaviy\OneDrive\Pictures\Screenshots\Screenshot 2026-06-04 200533.png"
+https://github.com/kaviyasampath03-art/Plant-Disease-Prediction-/blob/main/Screenshot%202026-06-04%20200533.png
 
 🎯 Objectives
 Detect plant diseases from leaf images.
